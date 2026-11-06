@@ -1,15 +1,15 @@
-# 📚 PiDiF GPT
+# PiDiF GPT
 
 PiDiF GPT is a very basic Streamlit-based chatbot that allows users to interact with their PDFs using natural language. It processes PDFs, extracts their content, and enables a conversational AI experience.&#x20;
 
-## 🚀 Features
+## Features
 
 - Upload and process multiple PDFs.
 - Ask questions about the content.
 - Interactive chat interface.
 - Uses vector search for efficient retrieval.
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -39,7 +39,7 @@ Create a `.env` file and add:
 GROQ_API_KEY=your_api_key_here
 ```
 
-## ▶️ Usage
+## Usage
 
 Run the application with:
 
